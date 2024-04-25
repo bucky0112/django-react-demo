@@ -2,6 +2,8 @@
 
 This is a sample project showcasing the integration of Django and React in a separated frontend and backend architecture.
 
+![small-django-demo](https://github.com/bucky0112/django-react-demo/assets/49245415/5a95246b-da1d-4b18-83e8-a0d04bdab68e)
+
 ## Project Structure
 
 The project directory structure is as follows:
